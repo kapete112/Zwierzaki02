@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zwierzaki</string>
+    <array name="plcie">
+        <item>Samiec</item>
+        <item>Samica</item>
+    </array>
+</resources>
